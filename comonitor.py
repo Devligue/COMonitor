@@ -9,7 +9,7 @@ import serial.tools.list_ports
 from PyQt5 import QtWidgets, QtCore, QtGui
 
 __version__ = '0.1.2'
-__author__ = 'K. Dziadowiec <krzysztof.dziadoiwec@gmail.com>'
+__author__ = 'K. Dziadowiec <krzysztof.dziadowiec@gmail.com>'
 
 # OS ['Windows', 'Linux', 'Darwin']
 PLATFORM = platform.system()
